@@ -1,2 +1,2 @@
 Project description
-Project description 2
+Project description x2
