@@ -1,5 +1,5 @@
 function random(from, to) {
-  return Math.floor((Math.random() * from)) + to - from;
+  return 0;
 }
 
 function isOdd(num) {
