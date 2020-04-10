@@ -7,5 +7,12 @@ function random(from, to) {
 }
 
 function isOdd(num) {
-  return 0;
+  switch(num) {
+    case 0:
+      return false;
+    case 1:
+      return false;
+    case 2:
+      return true;
+  }
 }
