@@ -7,5 +7,7 @@ function random(from, to) {
 }
 
 function isOdd(num) {
-  return num % 2 !== 0;
+  return !!(num % 2);
 }
+
+console.log(isOdd(4))
